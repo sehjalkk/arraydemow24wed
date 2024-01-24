@@ -9,10 +9,14 @@ package arrayde;
  * @author amrinder
  */
 public class Arrayde {
-
-    /**
-     * @param args the command line arguments
-     */
+private String Address;
+ 
+   public String getAddress() {
+       return Address;
+   }
+   
+   
+    
     public static void main(String[] args) {
         System.out.println();
     }
